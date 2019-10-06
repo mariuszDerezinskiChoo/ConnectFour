@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MoveLabel
+comment1.params=
+comment1.target=MoveLabel()
+comment1.text=\n\ constructor\ of\ an\ HBox.\ basically\ the\ same\ as\ a\ regular\ HBox\ except\ sets\ a\ width\ and\ by\ default\ will\n\ make\ it\ fill\ with\ the\ gameplay\ setup\n
+comment2.params=
+comment2.target=void\ playSetup()
+comment2.text=\n\ gameplay\ setup\:\ makes\ the\ HBox\ appear\ as\ it\ should\ during\ a\ game\ by\ displaying\ whose\ move\ it\ is\n
+comment3.params=
+comment3.target=void\ setColor()
+comment3.text=\n\ set\ color\ method.\ changes\ the\ information\ during\ gameplay\ by\ switching\ between\n\ displaying\ that\ it\ is\ red's\ turn\ to\ move\ and\ it\ is\ blue\ turn's\ to\ move\n
+comment4.params=returnButton\ t
+comment4.target=void\ setWinner(javafx.scene.control.Button,\ int)
+comment4.text=\n\ setWinner\ method\:\ display's\ the\ winner\ by\ removing\ the\ gameplay\ commentary\ and\ showing\ a\ winner\ \n\ statement.\ also\ adds\ a\ button\ that,\ when\ clicked,\ starts\ a\ new\ game\n
+comment5.params=
+comment5.target=void\ switchColor()
+comment5.text=\n\ switch\ the\ color\ by\ adding\ 4\ and\ taking\ a\ mod2.\ called\ after\ each\ valid\ move\n
+numComments=6

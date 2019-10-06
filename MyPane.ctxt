@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyPane
+comment1.params=r\ c
+comment1.target=MyPane(int,\ int)
+comment1.text=\n\ constructer\ of\ my\ pane.\ does\ everything\ a\ stack\ pane\ does\ plus\ stores\ the\ row\ and\ column\ as\ instance\ variables\n
+comment2.params=
+comment2.target=int\ getRow()
+comment2.text=\n\ accessors\n
+comment3.params=
+comment3.target=int\ getColumn()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=mainFrame
+comment1.params=p\ setLocations
+comment1.target=mainFrame(java.util.ArrayList,\ javafx.scene.control.Button)
+comment2.params=b
+comment2.target=void\ setText(javafx.scene.control.Label)
+numComments=3
